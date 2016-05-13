@@ -81,8 +81,10 @@ header {
 	line-height: 40px;
 }
 #box3 span {
+	display: block;
+	font-style: normal;
 	font-weight: 600;
-	padding-top: -40px;
+	padding-top: 60px;
 }
 #box4 {
 	background-color: yellow;
